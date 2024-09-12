@@ -10,4 +10,19 @@ public class ClassA {
 		System.out.println("2");
 
 	}
+	
+	private void tc3() {
+		System.out.println("2");
+
+	}
+	
+	private void tc4() {
+		System.out.println("2");
+
+	}
+	
+	private void tc5() {
+		System.out.println("2");
+
+	}
 }
